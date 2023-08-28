@@ -23,7 +23,7 @@ of advanced scanning tools but offers a hands-on opportunity to explore the basi
 
 - <b>Ethical Considerations:</b> Port scanning should always be conducted responsibly and with the necessary permissions. This script emphasizes the importance of ethical scanning practices.
 
--  <b>Port Record:</b> The script creates a text file named port_scan_host_{target}.txt, which contains a record of the open ports on the scanned target host. This feature can be helpful for further analysis and documentation.
+-  <b>Port Record:</b> The script creates a text file named <b>port_scan_host_<i>{target}</i>.txt</b>, which contains a record of the open ports on the scanned target host. This feature can be helpful for further analysis and documentation.
 <br />
 
 
