@@ -47,6 +47,13 @@ of advanced scanning tools but offers a hands-on opportunity to explore the basi
 [windows]: https://www.microsoft.com/
 <br /><br />
 
+<h2>Dependencies </h2>
+
+- <b>Python's socket Library:</b> The script utilizes the <b><i>socket</i></b> library to handle low-level network communication, enabling connections to target hosts' IP addresses and specific ports.
+<br>
+
+- <b>Python's re Library:</b> The <b><i>re</i></b> library is employed for working with regular expressions, specifically for validating IPv4 addresses using a predefined pattern.
+
 <h2>Usage </h2>
 
 1. Run the script.
@@ -59,13 +66,7 @@ of advanced scanning tools but offers a hands-on opportunity to explore the basi
 7. You can use the generated text file for further analysis, documentation, or exploration of the open ports on the target host.
 8. The script will exit after displaying the results. You can re-run the script for scanning different target hosts or port ranges.
 
-
-<h2>Dependencies </h2>
-
-- <b>Python's socket Library:</b> The script utilizes the <b><i>socket</i></b> library to handle low-level network communication, enabling connections to target hosts' IP addresses and specific ports.
-<br>
-
-- <b>Python's re Library:</b> The <b><i>re</i></b> library is employed for working with regular expressions, specifically for validating IPv4 addresses using a predefined pattern.
+<br /><br />
 
 <h2>Program walk-through:</h2>
 
