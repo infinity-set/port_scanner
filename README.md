@@ -68,7 +68,7 @@ of advanced scanning tools but offers a hands-on opportunity to explore the basi
 
 <br /><br />
 
-<h2>Program walk-through:</h2>
+<h2>Program Walk-Through:</h2>
 
 <p align="center">
 Launch PyCharm and Run the file: <br/>
