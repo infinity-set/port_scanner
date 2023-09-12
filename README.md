@@ -1,9 +1,20 @@
-<h1>Simple Port Scanner</h1>
+## Simple Port Scanner
 
 Welcome to the Simple Port Scanner – your entry point to understanding the basic concepts of port scanning! 
 This Python script offers a beginner-friendly introduction to the world of network security by allowing you to explore the fundamentals of identifying open ports on a target host.
 
-<h2>Description</h2>
+## Table of Contents
+
+- [Description](#description)
+- [Why Use This Script?](#why-use-this-script)
+- [Languages and Utilities Used](#languages-and-utilities-used)
+- [Environments Used](#environments-used)
+- [Dependencies](#dependencies)
+- [Usage](#usage)
+- [Program Walk-Through](#program-walk-through)
+
+
+## Description
 Port scanning is a crucial technique in the field of cybersecurity. It involves probing a network or a computer system for open ports,
 which can provide valuable insights into potential vulnerabilities and the services running on a machine. The Simple Port Scanner script provides an
 approachable way to learn about port scanning by walking you through the process of scanning for open ports on a specified target host.
@@ -13,7 +24,7 @@ of advanced scanning tools but offers a hands-on opportunity to explore the basi
 
 <br />
 
-<h2>Why Use This Script?</h2>
+## Why Use This Script?
 
 - <b>Educational Purpose:</b> The script is an educational tool that introduces you to the fundamental principles of port scanning. It's perfect for those who want to learn how port scanning works before diving into more complex tools.
 
@@ -27,7 +38,7 @@ of advanced scanning tools but offers a hands-on opportunity to explore the basi
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+## Languages and Utilities Used
 
 - <b>Python</b> 
 - <b>PyCharm</b>
@@ -38,7 +49,7 @@ of advanced scanning tools but offers a hands-on opportunity to explore the basi
 [pycharm]: https://www.jetbrains.com/pycharm/
 [python]: https://www.python.org/
 
-<h2>Environments Used </h2>
+## Environments Used 
 
 - <b>Windows 10</b>
 
@@ -47,14 +58,14 @@ of advanced scanning tools but offers a hands-on opportunity to explore the basi
 [windows]: https://www.microsoft.com/
 <br /><br />
 
-<h2>Dependencies </h2>
+## Dependencies 
 
 - <b>Python's socket Library:</b> The script utilizes the <b><i>socket</i></b> library to handle low-level network communication, enabling connections to target hosts' IP addresses and specific ports.
 <br>
 
 - <b>Python's re Library:</b> The <b><i>re</i></b> library is employed for working with regular expressions, specifically for validating IPv4 addresses using a predefined pattern.
 
-<h2>Usage </h2>
+## Usage 
 
 1. Run the script.
 2. Enter the IPv4 address of the target host you want to scan. Make sure it's a valid IPv4 address. If the entered address is invalid, the script will prompt you to enter a valid one.
@@ -68,7 +79,7 @@ of advanced scanning tools but offers a hands-on opportunity to explore the basi
 
 <br /><br />
 
-<h2>Program Walk-Through</h2>
+## Program Walk-Through
 
 <p align="center">
 Launch PyCharm and Run the file: <br/>
