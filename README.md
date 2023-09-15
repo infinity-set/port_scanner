@@ -51,7 +51,7 @@ of advanced scanning tools but offers a hands-on opportunity to explore the basi
 
 ## Environments Used 
 
-- <b>Windows 10</b>
+- <b>Windows</b>
 
 [<img align="left" alt="Microsoft Icon" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Windows_logo_-_2012_derivative.svg" />][windows]
 
